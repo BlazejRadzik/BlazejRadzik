@@ -1,4 +1,4 @@
-### 📈 Aspiring Quant Analyst | Python Developer | Financial Modeling
+### 📈 Aspiring Quant Analyst | Financial Modeling
 
 Pasjonuję się analizą ilościową i inżynierią finansową. Moje projekty koncentrują się na wykorzystaniu matematyki i programowania do optymalizacji decyzji inwestycyjnych oraz monitorowania ryzyk makroekonomicznych.
 
