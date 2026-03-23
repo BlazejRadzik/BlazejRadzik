@@ -9,7 +9,7 @@
 ## **🚀 Featured Project: QuantRisk**
 **An Enterprise-grade Risk Management Platform designed for multi-asset portfolio modeling.**
 
-> [**[View Repository]**]([LINK_DO_REPO]) | [**[Documentation & Demo]**]([LINK_DO_DEMO])
+> [**[View Repository]**](https://github.com/BlazejRadzik/QuantRiskEngine) | [**[Documentation & Demo]**]([LINK_DO_DEMO])
 
 ### **Key Technical Implementations:**
 
