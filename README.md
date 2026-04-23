@@ -1,5 +1,5 @@
 # **Błażej Radzik**
-### **Quantitative Developer | Financial Engineering**
+### **Aspriging Quantitative Developer | Financial Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/b%C5%82a%C5%BCej-radzik/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:blazej.radzik@edu.uekat.pl)
