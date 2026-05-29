@@ -9,7 +9,7 @@
 ## **🚀 Featured Project: QuantRisk**
 **An Enterprise-grade Risk Management Platform designed for multi-asset portfolio modeling.**
 
-> [**[View Repository]**](https://github.com/BlazejRadzik/QuantRiskEngine) | 
+> [**[View Repository]**](https://github.com/BlazejRadzik/QuantRiskEngine)
 
 ### **Key Technical Implementations:**
 
@@ -36,9 +36,10 @@
 
 ## **📈 Activity & Stats**
 
-| **GitHub Stats** | **Top Languages** |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=BlazejRadzik&show_icons=true&theme=tokyonight&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazejRadzik&layout=compact&theme=tokyonight&hide_border=true) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlazejRadzik&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazejRadzik&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+</p>
 
 ---
 
