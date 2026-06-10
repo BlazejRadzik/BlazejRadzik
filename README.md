@@ -1,4 +1,3 @@
-# **Błażej Radzik**
 ### **Aspiring Quant**
 
 ---
