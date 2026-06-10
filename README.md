@@ -20,12 +20,12 @@
 **🛠 Tech Stack**
 
 ### **Core Programming & HPC**
-* **Languages:** `C++17/20` (Templates, Metaprogramming), `Python 3.x` (AsyncIO).
-* **Optimization:** `OpenMP` (Multi-threading), `SIMD` (Vectorization), `Pybind11` (Zero-copy memory transfer).
-* **Backend & Dev:** `FastAPI`, `Docker & Compose`, `PostgreSQL/SQLite`.
+* **Languages:** `C++17`, `Python`.
+* **Optimization:** `OpenMP`, `SIMD`, `Pybind11`.
+* **Backend:** `FastAPI`, `Docker`.
 
-### **Quant & Data Science**
-* **Libraries:** `PyTorch` (LSTMs), `NumPy`, `Pandas`, `SciPy`, `Plotly`.
+### **Data Science**
+* **Libraries:** `PyTorch`, `NumPy`, `Pandas`, `SciPy`, `Plotly`.
 * **Focus Areas:** **Tail Risk Estimation** (Parametric, Historical, Monte Carlo VaR/ES), **Portfolio Optimization** (Mean-Variance), **Spectral Dynamics**.
 
 ---
@@ -39,7 +39,7 @@
 
 ---
 
-## **🎯 Current Focus**
+## **Current Focus**
 * Developing **Real-time pricing engines** for derivative instruments.
 * Researching **Spectral Dynamics** in high-frequency financial time series.
 * Refining **Institutional Dynamic Weight Bounds** in portfolio rebalancing.
