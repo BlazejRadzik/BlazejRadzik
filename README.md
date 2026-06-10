@@ -1,17 +1,14 @@
 # **Błażej Radzik**
-### **Aspiring Quantitative Developer | Financial Engineering**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/b%C5%82a%C5%BCej-radzik/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:blazej.radzik@edu.uekat.pl)
+### **Aspiring Quant**
 
 ---
 
-## **🚀 Featured Project: QuantRisk**
-**An Enterprise-grade Risk Management Platform designed for multi-asset portfolio modeling.**
+## Project: QuantRisk**
+**A Management Platform designed for multi-asset portfolio modeling.**
 
 > [**[View Repository]**](https://github.com/BlazejRadzik/QuantRiskEngine)
 
-### **Key Technical Implementations:**
+### **Implementations:**
 
 * **HPC Monte Carlo Engine (C++17):** Developed a custom simulation module integrated via **Pybind11**. Utilizing **OpenMP** for full CPU core parallelization and **SIMD Optimization**, achieving **400x+ speedup** over standard Python loops for 50,000+ path Geometric Brownian Motion (GBM) simulations.
 * **Hybrid Volatility Forecasting:** Implemented a unique pipeline where **GARCH(1,1)** econometric models are corrected by **LSTM Neural Networks (PyTorch)** to capture non-linear market anomalies and volatility clustering.
