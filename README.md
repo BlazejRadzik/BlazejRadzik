@@ -1,13 +1,13 @@
-### **Aspiring Quant**
+**Aspiring Quant**
 
 ---
 
-## **Project: QuantRisk**
+**Project: QuantRisk**
 **A Management Platform designed for multi-asset portfolio modeling.**
 
 > [**[View Repository]**](https://github.com/BlazejRadzik/QuantRiskEngine)
 
-### **Implementations:**
+**Implementations:**
 
 * **HPC Monte Carlo Engine (C++17):** Developed a custom simulation module integrated via **Pybind11**. Utilizing **OpenMP** for full CPU core parallelization and **SIMD Optimization**, achieving **400x+ speedup** over standard Python loops for 50,000+ path Geometric Brownian Motion (GBM) simulations.
 * **Hybrid Volatility Forecasting:** Implemented a unique pipeline where **GARCH(1,1)** econometric models are corrected by **LSTM Neural Networks (PyTorch)** to capture non-linear market anomalies and volatility clustering.
@@ -17,7 +17,7 @@
 
 ---
 
-## **🛠 Tech Stack**
+**🛠 Tech Stack**
 
 ### **Core Programming & HPC**
 * **Languages:** `C++17/20` (Templates, Metaprogramming), `Python 3.x` (AsyncIO).
@@ -30,7 +30,7 @@
 
 ---
 
-## **📈 Activity & Stats**
+## **Activity**
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BlazejRadzik&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" width="48%" alt="GitHub Stats" />
