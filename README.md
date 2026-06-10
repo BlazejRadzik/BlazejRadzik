@@ -2,7 +2,7 @@
 
 ---
 
-## Project: QuantRisk**
+## **Project: QuantRisk**
 **A Management Platform designed for multi-asset portfolio modeling.**
 
 > [**[View Repository]**](https://github.com/BlazejRadzik/QuantRiskEngine)
