@@ -17,7 +17,6 @@
 
 ---
 
-**🛠 Tech Stack**
 
 ### **Core Programming & HPC**
 * **Languages:** `C++17`, `Python`.
