@@ -3,7 +3,6 @@
 
 <!-- Badges Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlazejRadzik&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/UNIVERSITY-UE_KATOWICE-00c8ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/COMPETITIONS-ACTIVE-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FOCUS-QUANT_FINANCE_|_HPC_|_ML-8a2be2?style=for-the-badge" />
