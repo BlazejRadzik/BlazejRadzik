@@ -43,12 +43,12 @@
 
 ### 📚 Selected Publications & Conferences
 
-* *Załamanie struktur zależności rynkowych w warunkach polikryzysu: analiza dynamicznych korelacji i niestabilności reżimów* – XIV International Conference, Warsaw University of Technology.
-* *Analiza porównawcza sieci neuronowych Bi-LSTM i modeli ekonometrycznych w szacowaniu zmienności* – NANWE, UE Kraków.
-* *Hybrydyzacja modelu Blacka-Scholesa i symulacji Monte Carlo w procesie redukcji wariancji wyceny opcji na instrumenty indeksu WIG20* – MSKN, Olsztyn.
-* *Skokowe załamanie relacji rynkowych pod wpływem asymetrycznego ryzyka: przypadek PKO BP i Banku Millennium* – 8th OSKN, Krosno.
+* *Breakdown of Market Dependence Structures Under Polycrisis Conditions: Analysis of Dynamic Correlations and Regime Instability* – XIV International Conference, Warsaw University of Technology.
+* *Comparative Analysis of Bi-LSTM Neural Networks and Econometric Models in Volatility Estimation* – NANWE, UE Kraków.
+* *Hybridization of the Black-Scholes Model and Monte Carlo Simulation in the Variance Reduction Process of Option Pricing for WIG20 Index Instruments* – MSKN, Olsztyn.
+* *Abrupt Breakdown of Market Relations Under the Influence of Asymmetric Risk: The Case of PKO BP and Bank Millennium* – 8th OSKN, Krosno.
 * *Verification of unobservable data (Level 3) under market shock conditions vs. financial stability* – XIII National Scientific Conference, Wrocław.
-* *Analiza spadku stawki WIBOR 3M poniżej stopy referencyjnej* – Piotr Rachwał Interdisciplinary Conference.
+* *Analysis of the Decline of the WIBOR 3M Rate Below the Reference Rate* – Piotr Rachwał Interdisciplinary Conference.
 * **Upcoming (ArXiv):** *Empirical Robustness of Quantitative Alphas Across Market Regimes*.
 
 ---
