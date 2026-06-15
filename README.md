@@ -20,54 +20,36 @@
 
 ### 👨‍💻 About Me
 
-* Undergraduate student in Finance & Digital Technologies at UE in Katowice (Expected 2028)[cite: 1].
-* Active member of KN Analiz Rynku Finansowego[cite: 1].
-* Future academic path includes a BSc in Theoretical Mathematics at UŚ, followed by an MSc at AGH[cite: 1].
-* Recipient of the Rector's Scholarship, with a first-semester GPA of 4.5 and projected second-semester GPA of up to 4.6[cite: 1].
-* Aiming for the Minister's Scholarship in the upcoming academic year[cite: 1].
+* Undergraduate student in Finance & Digital Technologies at University of Economics in Katowice (Expected 2028).
+* Active member of science club "Analiz Rynku Finansowego".
+* Future academic path includes a BSc in Theoretical Mathematics at University of Silesia in Katowice (Expected 2029).
 
 ---
 
 ### 🎯 Current Focus & Certifications
 
-* **Certifications:** Preparing for FRM Level 1 (June 2026) and CAE (late 2026)[cite: 1].
-* **Education:** Starting MIT MicroMasters in Statistics and Data Science in September[cite: 1].
-* **Competitive Programming:** Solving daily problems on CodeForces (Current rating 700, targeting 1800) and automating LeetCode solutions to GitHub[cite: 1].
-* **Kaggle:** Regularly participating in competitions and publishing notebooks[cite: 1].
+* **Education:** Starting MIT MicroMasters in Statistics and Data Science in September.
+* **Competitive Programming:** Solving daily problems on CodeForces (Current rating 1400, targeting 2000) and automating LeetCode solutions to GitHub.
+* **Kaggle:** Regularly participating in competitions.
 
 ---
 
 ### 🏆 Quantitative & Coding Highlights
 
-* **IQC 2026:** 1st place in Poland and Top 0.5% globally in Stage 1 (Alpha Building)[cite: 1].
-* **IMC Prosperity 4:** Ranked 646th globally out of over 18,800 teams (Top 1 manual trader in Round 1)[cite: 1].
-* **Quant Challenge:** Ranked in the Top 1% globally based on generated alphas[cite: 1].
-
----
-
-### 🚀 Featured Project: QuantRiskEngine
-
-**A high-performance management platform designed for multi-asset portfolio modeling.**
-
-**Core Features:**
-* **HPC Monte Carlo Engine:** Custom C++17 module integrated via Pybind11[cite: 1]. Simulates asset price paths utilizing Geometric Brownian Motion ($dS_t = \mu S_t dt + \sigma S_t dW_t$) with OpenMP for full CPU core parallelization[cite: 1].
-* **Hybrid Volatility Modeling:** Combines classic GARCH(1,1) econometrics with PyTorch LSTM neural networks to correct volatility estimations[cite: 1].
-* **Risk Analytics:** Calculates Value at Risk (Parametric, Historical, Monte Carlo) and Expected Shortfall/CVaR[cite: 1].
-* **Statistical Backtesting:** Automated VaR validation using Kupiec POF and Christoffersen independence tests[cite: 1].
-* **Portfolio Optimization:** Mean-Variance optimization (SciPy/SLSQP) featuring dynamic bounds and EWMA covariance matrices for regime shifts[cite: 1].
-* **Architecture:** FastAPI backend, SQLite caching layer (replacing yfinance bottlenecks), Streamlit frontend, and fully containerized via Docker[cite: 1].
+* **IQC 2026:** 1st place in Poland and Top 0.5% globally in Stage 1 (Alpha Building).
+* **IMC Prosperity 4:** Ranked 646th globally out of over 18,800 teams (Top 1 manual trader in Round 1).
 
 ---
 
 ### 📚 Selected Publications & Conferences
 
-* *Załamanie struktur zależności rynkowych w warunkach polikryzysu: analiza dynamicznych korelacji i niestabilności reżimów* – XIV International Conference, Warsaw University of Technology (20 MEiN points)[cite: 1].
-* *Analiza porównawcza sieci neuronowych Bi-LSTM i modeli ekonometrycznych w szacowaniu zmienności* – NANWE, UE Kraków (20 MEiN points)[cite: 1].
-* *Hybrydyzacja modelu Blacka-Scholesa i symulacji Monte Carlo w procesie redukcji wariancji wyceny opcji na instrumenty indeksu WIG20* – MSKN, Olsztyn (20 MEiN points)[cite: 1].
-* *Skokowe załamanie relacji rynkowych pod wpływem asymetrycznego ryzyka: przypadek PKO BP i Banku Millennium* – 8th OSKN, Krosno[cite: 1].
-* *Verification of unobservable data (Level 3) under market shock conditions vs. financial stability* – XIII National Scientific Conference, Wrocław[cite: 1].
-* *Analiza spadku stawki WIBOR 3M poniżej stopy referencyjnej* – Piotr Rachwał Interdisciplinary Conference[cite: 1].
-* **Upcoming (ArXiv):** *Empirical Robustness of Quantitative Alphas Across Market Regimes*[cite: 1].
+* *Załamanie struktur zależności rynkowych w warunkach polikryzysu: analiza dynamicznych korelacji i niestabilności reżimów* – XIV International Conference, Warsaw University of Technology.
+* *Analiza porównawcza sieci neuronowych Bi-LSTM i modeli ekonometrycznych w szacowaniu zmienności* – NANWE, UE Kraków.
+* *Hybrydyzacja modelu Blacka-Scholesa i symulacji Monte Carlo w procesie redukcji wariancji wyceny opcji na instrumenty indeksu WIG20* – MSKN, Olsztyn.
+* *Skokowe załamanie relacji rynkowych pod wpływem asymetrycznego ryzyka: przypadek PKO BP i Banku Millennium* – 8th OSKN, Krosno.
+* *Verification of unobservable data (Level 3) under market shock conditions vs. financial stability* – XIII National Scientific Conference, Wrocław.
+* *Analiza spadku stawki WIBOR 3M poniżej stopy referencyjnej* – Piotr Rachwał Interdisciplinary Conference.
+* **Upcoming (ArXiv):** *Empirical Robustness of Quantitative Alphas Across Market Regimes*.
 
 ---
 
