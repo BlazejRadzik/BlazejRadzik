@@ -1,8 +1,6 @@
 <!-- Header Banner (Autogenerowany przez capsule-render) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Błażej%20Radzik&fontSize=60&desc=Quantitative%20Finance%20|%20HPC%20|%20Machine%20Learning&descAlign=50&descAlignY=70&fontColor=ffffff" width="100%" />
 
-<!-- Catchy Subtitle -->
-<h2 align="center"><code>🚀 Always Learning, Always Building</code></h2>
 
 ---
 
