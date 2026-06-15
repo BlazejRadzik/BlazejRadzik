@@ -81,6 +81,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazejRadzik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
 </p>
