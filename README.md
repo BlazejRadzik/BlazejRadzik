@@ -26,7 +26,7 @@
 
 ---
 
-### 🎯 Current Focus & Certifications
+### 🎯 Current Focus
 
 * **Education:** Starting MIT MicroMasters in Statistics and Data Science in September.
 * **Competitive Programming:** Solving daily problems on CodeForces (Current rating 1400, targeting 2000) and automating LeetCode solutions to GitHub.
