@@ -60,7 +60,4 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BlazejRadzik&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" width="45%" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BlazejRadzik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
