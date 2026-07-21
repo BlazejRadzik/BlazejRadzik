@@ -21,8 +21,9 @@
 ### 👨‍💻 About Me
 
 * Undergraduate student in Finance & Digital Technologies at University of Economics in Katowice (Expected 2028).
+* Undergraduate student in Theoretical Mathematics at University of Silesia in Katowice (Expected 2029).
 * Active member of science club "Analiz Rynku Finansowego".
-* Future academic path includes a BSc in Theoretical Mathematics at University of Silesia in Katowice (Expected 2029).
+
 
 ---
 
