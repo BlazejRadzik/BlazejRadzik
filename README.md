@@ -1,4 +1,3 @@
-<!-- Header Banner (Autogenerowany przez capsule-render) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Błażej%20Radzik&fontSize=60&desc=Quantitative%20Finance%20|%20HPC%20|%20Machine%20Learning&descAlign=50&descAlignY=70&fontColor=ffffff" width="100%" />
 
 <p align="center">
@@ -18,39 +17,26 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 * Undergraduate student in Finance & Digital Technologies at University of Economics in Katowice (Expected 2028).
 * Undergraduate student in Theoretical Mathematics at University of Silesia in Katowice (Expected 2029).
-* Active member of science club "Analiz Rynku Finansowego".
-
 
 ---
 
-### 🎯 Current Focus
+### Current Focus
 
-* **Education:** Starting MIT MicroMasters in Statistics and Data Science in September.
 * **Competitive Programming:** Solving daily problems on CodeForces (Current rating 1400, targeting 2000) and automating LeetCode solutions to GitHub.
-* **Kaggle:** Regularly participating in competitions.
-
----
-
-### 🏆 Quantitative & Coding Highlights
-
-* **IQC 2026:** 1st place in Poland and Top 0.5% globally in Stage 1 (Alpha Building).
+* **IQC 2026:** 1st place in Poland and Top 0.5% globally in Stage 1 and Stage 2 (Alpha Building).
 * **IMC Prosperity 4:** Ranked 646th globally out of over 18,800 teams (Top 1 manual trader in Round 1).
 
 ---
 
-### 📚 Selected Publications & Conferences
+### Publications
 
-* *Breakdown of Market Dependence Structures Under Polycrisis Conditions: Analysis of Dynamic Correlations and Regime Instability* – XIV International Conference, Warsaw University of Technology.
-* *Comparative Analysis of Bi-LSTM Neural Networks and Econometric Models in Volatility Estimation* – NANWE, UE Kraków.
-* *Hybridization of the Black-Scholes Model and Monte Carlo Simulation in the Variance Reduction Process of Option Pricing for WIG20 Index Instruments* – MSKN, Olsztyn.
-* *Abrupt Breakdown of Market Relations Under the Influence of Asymmetric Risk: The Case of PKO BP and Bank Millennium* – 8th OSKN, Krosno.
-* *Verification of unobservable data (Level 3) under market shock conditions vs. financial stability* – XIII National Scientific Conference, Wrocław.
-* *Analysis of the Decline of the WIBOR 3M Rate Below the Reference Rate* – Piotr Rachwał Interdisciplinary Conference.
-* **Upcoming (ArXiv):** *Empirical Robustness of Quantitative Alphas Across Market Regimes*.
+* *Breakdown of Market Dependence Structures Under Polycrisis Conditions: Analysis of Dynamic Correlations and Regime Instability*
+* *Comparative Analysis of Bi-LSTM Neural Networks and Econometric Models in Volatility Estimation*
+* *Hybridization of the Black-Scholes Model and Monte Carlo Simulation in the Variance Reduction Process of Option Pricing for WIG20 Index Instruments* 
 
 ---
 
