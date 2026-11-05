@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Błażej%20Radzik&fontSize=60&desc=Quantitative%20Finance%20|%20HPC%20|%20Machine%20Learning&descAlign=50&descAlignY=70&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Quantitative%20Finance%20|%20HPC%20|%20Machine%20Learning&descAlign=50&descAlignY=70&fontColor=ffffff" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/b%C5%82a%C5%BCej-radzik/">
@@ -34,13 +34,13 @@
 
 ### Publications
 
-* *Breakdown of Market Dependence Structures Under Polycrisis Conditions: Analysis of Dynamic Correlations and Regime Instability*
-* *Comparative Analysis of Bi-LSTM Neural Networks and Econometric Models in Volatility Estimation*
-* *Hybridization of the Black-Scholes Model and Monte Carlo Simulation in the Variance Reduction Process of Option Pricing for WIG20 Index Instruments* 
+* *Breakdown of Market Dependence Structures Under Polycrisis Conditions: Analysis of Dynamic Correlations and Regime Instability* ISBN: 978-83-973400-6-0 p.36
+* *Comparative Analysis of Bi-LSTM Neural Networks and Econometric Models in Volatility Estimation* ISBN: 978-83-67620-66-6 p.43
+* *Hybridization of the Black-Scholes Model and Monte Carlo Simulation in the Variance Reduction Process of Option Pricing for WIG20 Index Instruments* ISBN:978-83-69008-07-3 p.390
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BlazejRadzik&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" width="48%" alt="GitHub Stats" />
