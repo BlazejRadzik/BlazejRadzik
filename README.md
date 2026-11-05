@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Quantitative%20Finance%20|%20HPC%20|%20Machine%20Learning&descAlign=50&descAlignY=70&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Quantitative%20Finance%20&descAlign=50&descAlignY=70&fontColor=ffffff" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/b%C5%82a%C5%BCej-radzik/">
